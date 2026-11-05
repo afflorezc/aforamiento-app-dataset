@@ -11,4 +11,6 @@ el procesamiento de completación sintética probado y la clasificación final e
 descrito en la documentación de la preparación del dataset definitivo. La muestra de las imágenes finales seleccionadas,
 recortadas y debidamente etiquetas se encuentran en la carpeta Banana Tree.v3i.yolov11
 
-
+## *NOTA*
+Los scripts se presentan con las rutas absolutas y/o relativas utilizadas inicialmente en el procesamiento y 
+preparación local.
