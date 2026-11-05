@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['banana']
+
+roboflow:
+  workspace: daniels-workspace-g2qho
+  project: banana-tree-ozjvb
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/daniels-workspace-g2qho/banana-tree-ozjvb/3
